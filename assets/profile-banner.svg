@@ -267,25 +267,25 @@
     
     <text x="44" y="56" clip-path="url(#clipLine0)"
       font-family="'Georgia', serif" font-size="16"
-      fill="#2E2A26">Hi, it's Aman here</text>
+      fill="#6B3D45">Hi, it's Aman here</text>
     <text x="44" y="83" clip-path="url(#clipLine1)"
       font-family="'Georgia', serif" font-size="16"
-      fill="#2E2A26">Hope you're having a good day</text>
+      fill="#6B3D45">Hope you're having a good day</text>
     <text x="44" y="110" clip-path="url(#clipLine2)"
       font-family="'Georgia', serif" font-size="16"
-      fill="#2E2A26">This is where I share what I build</text>
+      fill="#6B3D45">This is where I share what I build</text>
     <text x="44" y="137" clip-path="url(#clipLine3)"
       font-family="'Georgia', serif" font-size="16"
-      fill="#2E2A26">Mostly curiosity-driven projects</text>
+      fill="#6B3D45">Mostly curiosity-driven projects</text>
     <text x="44" y="164" clip-path="url(#clipLine4)"
       font-family="'Georgia', serif" font-size="16"
-      fill="#2E2A26">Some powered by AI, some by late nights</text>
+      fill="#6B3D45">Some powered by AI, some by late nights</text>
     <text x="44" y="191" clip-path="url(#clipLine5)"
       font-family="'Georgia', serif" font-size="16"
-      fill="#2E2A26">Still a student. Still learning.</text>
+      fill="#6B3D45">Still a student. Still learning.</text>
     <text x="44" y="218" clip-path="url(#clipLine6)"
       font-family="'Georgia', serif" font-size="16"
-      fill="#2E2A26">Open to your issues and pull requests!</text>
+      fill="#6B3D45">Open to your issues and pull requests!</text>
     
     <rect x="223.2" y="43" width="7" height="16" fill="#BE6A45">
       <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite"
