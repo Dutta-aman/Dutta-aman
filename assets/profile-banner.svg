@@ -91,172 +91,172 @@
   
   <rect x="10" y="10" width="820" height="260" fill="none" stroke="#332A20" stroke-width="1" opacity="0.45"/>
   <rect x="14" y="14" width="812" height="252" fill="none" stroke="#332A20" stroke-width="0.5" opacity="0.28"/>
-  <text x="30" y="30" font-family="'Georgia', serif" font-size="11" letter-spacing="1.5" fill="#F5F1E8" opacity="0.65">&#167; A.07&#183;31</text>
+  <text x="30" y="30" font-family="'Georgia', serif" font-size="11" letter-spacing="1.5" fill="#6B3D45" opacity="0.65">&#167; A.07&#183;31</text>
   
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /HSRELTP
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.0632;0.0751;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /CUSCTAP
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.0751;0.087;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /CUIRHGW
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.087;0.0988;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /CURPRRP
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.0988;0.1107;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /CURIMUE
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.1107;0.1225;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /CURIOHU
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.1225;0.1344;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /CURIOUE
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.1344;0.1462;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /CURIOUS
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.1462;0.3597;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /QMXAVYCF
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.3597;0.3715;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /BYSBJYAI
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.3715;0.3834;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /BUPTXMWZ
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.3834;0.3953;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /BUINMXZS
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.3953;0.4071;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /BUILOELD
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.4071;0.419;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /BUILDBEP
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.419;0.4308;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /BUILDIGI
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.4308;0.4427;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /BUILDING
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.4427;0.6561;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /VNYUJNQM
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.6561;0.668;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /LSLRSNSH
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.668;0.6798;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /LEKVAITV
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.6798;0.6917;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /LEAWFWKR
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.6917;0.7036;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /LEARSSDW
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.7036;0.7154;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /LEARNUGU
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.7154;0.7273;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /LEARNISI
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.7273;0.7391;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Consolas, Monaco, 'Courier New', monospace"
-      fill="#F5F1E8" opacity="0">
+      fill="#6B3D45" opacity="0">
       /LEARNING
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.7391;0.9526;1" values="0;1;0;0" />
