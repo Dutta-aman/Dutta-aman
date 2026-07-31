@@ -57,29 +57,128 @@
   <g>
     <animateTransform attributeName="transform" type="translate" dur="13s"
       repeatCount="indefinite" values="0 0; 4 -6; 0 0; -3 4; 0 0"/>
-    <g transform="rotate(-6 16 288)">
-    <path d="M16,288 q 21.0,-98.17500000000003 10.5,-178.5" stroke="#6F7C4F" stroke-width="1.4" fill="none" opacity="0.6"/>
-    <path d="M18.0,270.1 q 12.7,-8.4 25.5,-16.9" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M18.0,270.1 q -12.7,-8.4 -25.5,-16.9" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M19.8,252.3 q 11.8,-7.4 23.6,-14.8" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M19.8,252.3 q -11.8,-7.4 -23.6,-14.8" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M21.4,234.4 q 10.8,-6.4 21.6,-12.7" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M21.4,234.4 q -10.8,-6.4 -21.6,-12.7" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M22.7,216.6 q 9.8,-5.4 19.6,-10.9" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M22.7,216.6 q -9.8,-5.4 -19.6,-10.9" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M23.9,198.8 q 8.7,-4.5 17.4,-9.1" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M23.9,198.8 q -8.7,-4.5 -17.4,-9.1" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M24.8,180.9 q 7.6,-3.7 15.2,-7.4" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M24.8,180.9 q -7.6,-3.7 -15.2,-7.4" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M25.6,163.1 q 6.5,-2.9 12.9,-5.9" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M25.6,163.1 q -6.5,-2.9 -12.9,-5.9" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M26.1,145.2 q 5.3,-2.2 10.5,-4.5" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M26.1,145.2 q -5.3,-2.2 -10.5,-4.5" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M26.4,127.3 q 4.1,-1.6 8.1,-3.2" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M26.4,127.3 q -4.1,-1.6 -8.1,-3.2" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M26.5,109.5 q 2.8,-1.0 5.6,-2.1" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/><path d="M26.5,109.5 q -2.8,-1.0 -5.6,-2.1" stroke="#6F7C4F" stroke-width="1.1" fill="none" opacity="0.55"/>
-  </g>
+    <g transform="rotate(-8 16 288)"><path d="M14.3,288.0 Q37.8,186.9 30.7,104.2 Q40.4,186.9 17.7,288.0 Z" fill="#5C6B45" opacity="0.55"/><path d="M17.8,273.9 Q34.6,271.5 39.6,255.3 Q22.7,257.6 17.8,273.9 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M17.8,273.9 Q12.8,257.6 -4.1,255.3 Q0.9,271.5 17.8,273.9 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M19.5,259.7 Q35.3,258.0 40.4,242.8 Q24.5,244.6 19.5,259.7 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M19.5,259.7 Q14.4,244.6 -1.5,242.8 Q3.6,258.0 19.5,259.7 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M21.1,245.6 Q36.0,244.4 41.1,230.3 Q26.2,231.6 21.1,245.6 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M21.1,245.6 Q16.0,231.6 1.2,230.3 Q6.3,244.4 21.1,245.6 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M22.8,231.5 Q36.6,230.7 41.7,217.8 Q27.9,218.6 22.8,231.5 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M22.8,231.5 Q17.7,218.6 3.9,217.8 Q8.9,230.7 22.8,231.5 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M24.4,217.3 Q37.2,216.9 42.2,205.2 Q29.4,205.5 24.4,217.3 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M24.4,217.3 Q19.4,205.5 6.6,205.2 Q11.6,216.9 24.4,217.3 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M25.9,203.2 Q37.7,203.2 42.6,192.5 Q30.8,192.5 25.9,203.2 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M25.9,203.2 Q21.0,192.5 9.3,192.5 Q14.2,203.2 25.9,203.2 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M27.4,189.1 Q38.1,189.3 42.8,179.7 Q32.1,179.5 27.4,189.1 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M27.4,189.1 Q22.7,179.5 12.0,179.7 Q16.7,189.3 27.4,189.1 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M28.9,174.9 Q38.5,175.4 43.0,166.9 Q33.4,166.4 28.9,174.9 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M28.9,174.9 Q24.4,166.4 14.8,166.9 Q19.3,175.4 28.9,174.9 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M30.3,160.8 Q38.9,161.5 43.1,154.0 Q34.5,153.3 30.3,160.8 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M30.3,160.8 Q26.1,153.3 17.6,154.0 Q21.8,161.5 30.3,160.8 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M31.7,146.7 Q39.2,147.4 43.1,141.0 Q35.6,140.2 31.7,146.7 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M31.7,146.7 Q27.9,140.2 20.4,141.0 Q24.2,147.4 31.7,146.7 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M33.1,132.5 Q39.5,133.4 42.9,127.9 Q36.5,127.0 33.1,132.5 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M33.1,132.5 Q29.6,127.0 23.2,127.9 Q26.6,133.4 33.1,132.5 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M34.4,118.4 Q39.7,119.2 42.7,114.7 Q37.4,113.9 34.4,118.4 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M34.4,118.4 Q31.4,113.9 26.0,114.7 Q29.0,119.2 34.4,118.4 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M35.6,104.2 Q39.9,105.1 42.4,101.5 Q38.2,100.7 35.6,104.2 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/><path d="M35.6,104.2 Q33.1,100.7 28.8,101.5 Q31.3,105.1 35.6,104.2 Z" fill="#5C6B45" opacity="0.5" stroke="#5C6B45" stroke-width="0.5"/></g>
   </g>
     
-  <g>
-    <animateTransform attributeName="transform" type="translate" dur="9s"
-      repeatCount="indefinite" values="0 0; -8 6; 0 0; -5 -5; 0 0"/>
-    <animateTransform attributeName="transform" type="rotate" dur="9s"
-      repeatCount="indefinite" values="0;-6;0;5;0" additive="sum"/>
-    
-  <g transform="translate(814 12) scale(0.95)" opacity="0.6">
-    <path d="M0,0 C -18,-26 -46,-24 -50,-2 C -46,14 -20,10 0,0 Z" fill="none" stroke="#A6677A" stroke-width="1.3"/>
-    <path d="M0,0 C -14,-8 -34,-4 -36,10 C -30,22 -14,16 0,0 Z" fill="none" stroke="#A6677A" stroke-width="1.1"/>
-    <path d="M0,0 C 18,-26 46,-24 50,-2 C 46,14 20,10 0,0 Z" fill="none" stroke="#A6677A" stroke-width="1.3"/>
-    <path d="M0,0 C 14,-8 34,-4 36,10 C 30,22 14,16 0,0 Z" fill="none" stroke="#A6677A" stroke-width="1.1"/>
-    <line x1="0" y1="-4" x2="0" y2="14" stroke="#A6677A" stroke-width="1.4"/>
-    <path d="M0,-4 C -6,-14 -12,-16 -16,-14" fill="none" stroke="#A6677A" stroke-width="0.9"/>
-    <path d="M0,-4 C 6,-14 12,-16 16,-14" fill="none" stroke="#A6677A" stroke-width="0.9"/>
-    <circle cx="-16" cy="-14" r="1.4" fill="#A6677A"/>
-    <circle cx="16" cy="-14" r="1.4" fill="#A6677A"/>
-  </g>
+  <!-- ============================================================
+       BIRD: small songbird perched on the branch, engraved-ink style
+       ============================================================ -->
+  <g id="bird" transform="translate(13.1 163.1) rotate(28) scale(0.82)">
+    <animateTransform attributeName="transform" type="translate" dur="12s"
+      repeatCount="indefinite" additive="sum"
+      values="0 0; 2 -1; 0 0; -2 1; 0 0"/>
+    <animateTransform attributeName="transform" type="rotate" dur="14s"
+      repeatCount="indefinite" additive="sum"
+      values="0; 2; 0; -1.5; 0"/>
+
+    <!-- ===== TAIL (behind body) ===== -->
+    <g id="bird-tail">
+      <path d="M-19.0,3.0 Q-27.9,4.5 -35.6,9.1 Q-26.8,7.5 -19.0,3.0 Z" fill="#4B342C" opacity="0.21" stroke="#4B342C" stroke-width="0.5"/><path d="M-19.0,3.0 L-35.6,9.1" fill="none" stroke="#4B342C" stroke-width="0.35" opacity="0.36"/>
+      <path d="M-19.0,3.0 Q-28.4,5.8 -36.3,11.7 Q-26.9,8.9 -19.0,3.0 Z" fill="#4B342C" opacity="0.21" stroke="#4B342C" stroke-width="0.5"/><path d="M-19.0,3.0 L-36.3,11.7" fill="none" stroke="#4B342C" stroke-width="0.35" opacity="0.36"/>
+      <path d="M-19.0,3.0 Q-29.5,7.5 -37.8,15.4 Q-27.3,10.9 -19.0,3.0 Z" fill="#4B342C" opacity="0.21" stroke="#4B342C" stroke-width="0.5"/><path d="M-19.0,3.0 L-37.8,15.4" fill="none" stroke="#4B342C" stroke-width="0.35" opacity="0.36"/>
+      <path d="M-19.0,3.0 Q-28.2,8.2 -34.9,16.4 Q-25.8,11.1 -19.0,3.0 Z" fill="#4B342C" opacity="0.21" stroke="#4B342C" stroke-width="0.5"/><path d="M-19.0,3.0 L-34.9,16.4" fill="none" stroke="#4B342C" stroke-width="0.35" opacity="0.36"/>
+      <path d="M-19.0,3.0 Q-27.2,9.1 -32.8,17.6 Q-24.6,11.5 -19.0,3.0 Z" fill="#4B342C" opacity="0.21" stroke="#4B342C" stroke-width="0.5"/><path d="M-19.0,3.0 L-32.8,17.6" fill="none" stroke="#4B342C" stroke-width="0.35" opacity="0.36"/>
+      <path d="M-19.0,3.0 Q-26.2,9.8 -30.7,18.7 Q-23.4,11.9 -19.0,3.0 Z" fill="#4B342C" opacity="0.21" stroke="#4B342C" stroke-width="0.5"/><path d="M-19.0,3.0 L-30.7,18.7" fill="none" stroke="#4B342C" stroke-width="0.35" opacity="0.36"/>
+      <path d="M-19.0,3.0 Q-24.3,9.3 -27.1,16.9 Q-21.8,10.7 -19.0,3.0 Z" fill="#4B342C" opacity="0.21" stroke="#4B342C" stroke-width="0.5"/><path d="M-19.0,3.0 L-27.1,16.9" fill="none" stroke="#4B342C" stroke-width="0.35" opacity="0.36"/>
+      <path d="M-16.0,0.0 L-33.0,8.0" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.28"/>
+      <path d="M-16.0,2.5 L-33.0,10.5" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.28"/>
+      <path d="M-16.0,5.0 L-33.0,13.0" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.28"/>
+      <path d="M-16.0,7.5 L-33.0,15.5" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.28"/>
+      <path d="M-16.0,10.0 L-33.0,18.0" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.28"/>
+    </g>
+
+    <!-- ===== FEET (gripping the branch) ===== -->
+    <g id="bird-feet">
+      <path d="M1.0,12.0 L3.0,18.0 L5.0,23.0" fill="none" stroke="#4B342C" stroke-width="0.6" opacity="0.6"/>
+      <path d="M5.0,23.0 Q6.8,25.5 8.6,25.2" fill="none" stroke="#4B342C" stroke-width="0.45" opacity="0.55"/>
+      <path d="M5.0,23.0 Q7.0,25.5 9.0,26.0" fill="none" stroke="#4B342C" stroke-width="0.45" opacity="0.55"/>
+      <path d="M5.0,23.0 Q6.8,25.5 8.6,26.8" fill="none" stroke="#4B342C" stroke-width="0.45" opacity="0.55"/>
+      <path d="M5.0,23.0 Q3.0,22.0 1.5,20.0" fill="none" stroke="#4B342C" stroke-width="0.4" opacity="0.5"/>
+      <path d="M7.0,13.0 L10.0,19.0 L13.0,24.0" fill="none" stroke="#4B342C" stroke-width="0.6" opacity="0.6"/>
+      <path d="M13.0,24.0 Q14.8,26.5 16.6,26.2" fill="none" stroke="#4B342C" stroke-width="0.45" opacity="0.55"/>
+      <path d="M13.0,24.0 Q15.0,26.5 17.0,27.0" fill="none" stroke="#4B342C" stroke-width="0.45" opacity="0.55"/>
+      <path d="M13.0,24.0 Q14.8,26.5 16.6,27.8" fill="none" stroke="#4B342C" stroke-width="0.45" opacity="0.55"/>
+      <path d="M13.0,24.0 Q11.0,23.0 9.5,21.0" fill="none" stroke="#4B342C" stroke-width="0.4" opacity="0.5"/>
+    </g>
+
+    <!-- ===== BODY (breast, back, cross-hatch shading) ===== -->
+    <g id="bird-body">
+      <path d="M-20.0,2.0 L-15.0,-9.0 L-4.0,-16.0 L9.0,-15.0 L17.0,-10.0 L22.0,-2.0 L20.0,8.0 L10.0,14.0 L-4.0,12.0 L-14.0,8.0 L-20.0,2.0 Z" fill="#4B342C" opacity="0.16" stroke="#4B342C" stroke-width="0.8"/>
+      <path d="M-16.0,-14.0 Q1.0,-14.0 18.0,-14.0" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-15.6,-12.4 Q0.9,-10.8 17.4,-12.4" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-15.2,-10.7 Q0.8,-7.7 16.8,-10.7" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-14.8,-8.8 Q0.7,-4.8 16.2,-8.8" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-14.4,-6.8 Q0.6,-2.0 15.6,-6.8" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-14.0,-4.5 Q0.5,0.5 15.0,-4.5" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-13.6,-2.0 Q0.4,2.8 14.4,-2.0" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-13.2,0.8 Q0.3,4.8 13.8,0.8" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-12.8,3.7 Q0.2,6.7 13.2,3.7" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-12.4,6.8 Q0.1,8.4 12.6,6.8" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+      <path d="M-12.0,10.0 Q0.0,10.0 12.0,10.0" fill="none" stroke="#8A6A59" stroke-width="0.4" opacity="0.35"/>
+    </g>
+
+    <!-- ===== WING (coverts, secondaries, primaries, contour lines) ===== -->
+    <g id="bird-wing">
+      <path d="M2.0,-9.0 Q-1.5,-9.9 -3.6,-6.9 Q-0.1,-6.0 2.0,-9.0 Z" fill="#6F4A54" opacity="0.1925" stroke="#6F4A54" stroke-width="0.35"/><path d="M2.0,-9.0 L-3.6,-6.9" fill="none" stroke="#6F4A54" stroke-width="0.24499999999999997" opacity="0.33"/>
+      <path d="M3.4,-8.6 Q-0.2,-9.7 -2.6,-6.7 Q1.1,-5.5 3.4,-8.6 Z" fill="#6F4A54" opacity="0.1925" stroke="#6F4A54" stroke-width="0.35"/><path d="M3.4,-8.6 L-2.6,-6.7" fill="none" stroke="#6F4A54" stroke-width="0.24499999999999997" opacity="0.33"/>
+      <path d="M4.9,-8.1 Q1.1,-9.6 -1.5,-6.5 Q2.2,-5.1 4.9,-8.1 Z" fill="#6F4A54" opacity="0.1925" stroke="#6F4A54" stroke-width="0.35"/><path d="M4.9,-8.1 L-1.5,-6.5" fill="none" stroke="#6F4A54" stroke-width="0.24499999999999997" opacity="0.33"/>
+      <path d="M6.3,-7.7 Q2.4,-9.4 -0.4,-6.4 Q3.4,-4.7 6.3,-7.7 Z" fill="#6F4A54" opacity="0.1925" stroke="#6F4A54" stroke-width="0.35"/><path d="M6.3,-7.7 L-0.4,-6.4" fill="none" stroke="#6F4A54" stroke-width="0.24499999999999997" opacity="0.33"/>
+      <path d="M7.7,-7.3 Q3.8,-9.2 0.7,-6.2 Q4.6,-4.3 7.7,-7.3 Z" fill="#6F4A54" opacity="0.1925" stroke="#6F4A54" stroke-width="0.35"/><path d="M7.7,-7.3 L0.7,-6.2" fill="none" stroke="#6F4A54" stroke-width="0.24499999999999997" opacity="0.33"/>
+      <path d="M9.1,-6.9 Q5.2,-9.1 1.8,-6.1 Q5.7,-3.9 9.1,-6.9 Z" fill="#6F4A54" opacity="0.1925" stroke="#6F4A54" stroke-width="0.35"/><path d="M9.1,-6.9 L1.8,-6.1" fill="none" stroke="#6F4A54" stroke-width="0.24499999999999997" opacity="0.33"/>
+      <path d="M10.6,-6.4 Q6.6,-8.9 2.9,-6.0 Q6.9,-3.5 10.6,-6.4 Z" fill="#6F4A54" opacity="0.1925" stroke="#6F4A54" stroke-width="0.35"/><path d="M10.6,-6.4 L2.9,-6.0" fill="none" stroke="#6F4A54" stroke-width="0.24499999999999997" opacity="0.33"/>
+      <path d="M12.0,-6.0 Q8.0,-8.8 4.0,-6.0 Q8.0,-3.2 12.0,-6.0 Z" fill="#6F4A54" opacity="0.1925" stroke="#6F4A54" stroke-width="0.35"/><path d="M12.0,-6.0 L4.0,-6.0" fill="none" stroke="#6F4A54" stroke-width="0.24499999999999997" opacity="0.33"/>
+      <path d="M10.0,-6.0 Q2.4,-5.8 -2.7,-0.1 Q5.0,-0.3 10.0,-6.0 Z" fill="#4B342C" opacity="0.175" stroke="#4B342C" stroke-width="0.4"/><path d="M10.0,-6.0 L-2.7,-0.1" fill="none" stroke="#4B342C" stroke-width="0.27999999999999997" opacity="0.3"/>
+      <path d="M10.0,-5.0 Q2.0,-5.1 -3.4,0.7 Q4.5,0.8 10.0,-5.0 Z" fill="#4B342C" opacity="0.175" stroke="#4B342C" stroke-width="0.4"/><path d="M10.0,-5.0 L-3.4,0.7" fill="none" stroke="#4B342C" stroke-width="0.27999999999999997" opacity="0.3"/>
+      <path d="M10.0,-4.0 Q1.7,-4.4 -4.2,1.4 Q4.1,1.8 10.0,-4.0 Z" fill="#4B342C" opacity="0.175" stroke="#4B342C" stroke-width="0.4"/><path d="M10.0,-4.0 L-4.2,1.4" fill="none" stroke="#4B342C" stroke-width="0.27999999999999997" opacity="0.3"/>
+      <path d="M10.0,-3.0 Q1.4,-3.7 -4.9,2.1 Q3.7,2.9 10.0,-3.0 Z" fill="#4B342C" opacity="0.175" stroke="#4B342C" stroke-width="0.4"/><path d="M10.0,-3.0 L-4.9,2.1" fill="none" stroke="#4B342C" stroke-width="0.27999999999999997" opacity="0.3"/>
+      <path d="M10.0,-2.0 Q1.1,-3.1 -5.7,2.8 Q3.2,3.8 10.0,-2.0 Z" fill="#4B342C" opacity="0.175" stroke="#4B342C" stroke-width="0.4"/><path d="M10.0,-2.0 L-5.7,2.8" fill="none" stroke="#4B342C" stroke-width="0.27999999999999997" opacity="0.3"/>
+      <path d="M10.0,-1.0 Q0.8,-2.4 -6.4,3.4 Q2.8,4.8 10.0,-1.0 Z" fill="#4B342C" opacity="0.175" stroke="#4B342C" stroke-width="0.4"/><path d="M10.0,-1.0 L-6.4,3.4" fill="none" stroke="#4B342C" stroke-width="0.27999999999999997" opacity="0.3"/>
+      <path d="M14.0,-2.0 Q3.5,-2.0 -5.0,4.2 Q5.5,4.1 14.0,-2.0 Z" fill="#4B342C" opacity="0.1925" stroke="#4B342C" stroke-width="0.45"/><path d="M14.0,-2.0 L-5.0,4.2" fill="none" stroke="#4B342C" stroke-width="0.315" opacity="0.33"/>
+      <path d="M14.0,-1.4 Q3.1,-1.9 -6.1,4.1 Q4.8,4.5 14.0,-1.4 Z" fill="#4B342C" opacity="0.1925" stroke="#4B342C" stroke-width="0.45"/><path d="M14.0,-1.4 L-6.1,4.1" fill="none" stroke="#4B342C" stroke-width="0.315" opacity="0.33"/>
+      <path d="M14.0,-0.8 Q2.7,-1.9 -7.1,3.8 Q4.2,4.9 14.0,-0.8 Z" fill="#4B342C" opacity="0.1925" stroke="#4B342C" stroke-width="0.45"/><path d="M14.0,-0.8 L-7.1,3.8" fill="none" stroke="#4B342C" stroke-width="0.315" opacity="0.33"/>
+      <path d="M14.0,-0.2 Q2.4,-1.9 -8.1,3.5 Q3.6,5.2 14.0,-0.2 Z" fill="#4B342C" opacity="0.1925" stroke="#4B342C" stroke-width="0.45"/><path d="M14.0,-0.2 L-8.1,3.5" fill="none" stroke="#4B342C" stroke-width="0.315" opacity="0.33"/>
+      <path d="M14.0,0.4 Q2.0,-1.9 -9.0,3.1 Q2.9,5.5 14.0,0.4 Z" fill="#4B342C" opacity="0.1925" stroke="#4B342C" stroke-width="0.45"/><path d="M14.0,0.4 L-9.0,3.1" fill="none" stroke="#4B342C" stroke-width="0.315" opacity="0.33"/>
+      <path d="M14.0,1.0 Q1.8,-2.0 -9.9,2.7 Q2.3,5.7 14.0,1.0 Z" fill="#4B342C" opacity="0.1925" stroke="#4B342C" stroke-width="0.45"/><path d="M14.0,1.0 L-9.9,2.7" fill="none" stroke="#4B342C" stroke-width="0.315" opacity="0.33"/>
+      <path d="M-2.0,-14.0 Q7.0,-12.5 16.0,-14.0" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M-1.8,-12.2 Q6.9,-10.7 15.6,-12.2" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M-1.6,-10.4 Q6.8,-8.9 15.1,-10.4" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M-1.3,-8.7 Q6.7,-7.2 14.7,-8.7" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M-1.1,-6.9 Q6.6,-5.4 14.2,-6.9" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M-0.9,-5.1 Q6.4,-3.6 13.8,-5.1" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M-0.7,-3.3 Q6.3,-1.8 13.3,-3.3" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M-0.4,-1.6 Q6.2,-0.1 12.9,-1.6" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M-0.2,0.2 Q6.1,1.7 12.4,0.2" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M0.0,2.0 Q6.0,3.5 12.0,2.0" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <circle cx="2.00" cy="-10.00" r="0.60" fill="#B48A46"  stroke-width="0.5" opacity="0.5"/>
+      <circle cx="5.00" cy="-8.50" r="0.60" fill="#B48A46"  stroke-width="0.5" opacity="0.5"/>
+      <circle cx="8.00" cy="-7.00" r="0.60" fill="#B48A46"  stroke-width="0.5" opacity="0.5"/>
+    </g>
+
+    <!-- ===== FEATHERS: fine engraving detail layered across body/wing ===== -->
+    <g id="bird-feathers">
+      <path d="M-6,-6 Q-4,-9 -2,-6" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.25"/><path d="M-3,-5 Q-1,-8 1,-5" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.25"/><path d="M0,-4 Q2,-9 4,-4" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.25"/><path d="M3,-6 Q5,-8 7,-6" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.25"/><path d="M6,-5 Q8,-9 10,-5" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.25"/><path d="M9,-4 Q11,-8 13,-4" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.25"/><path d="M12,-6 Q14,-9 16,-6" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.25"/><path d="M15,-5 Q17,-8 19,-5" fill="none" stroke="#8A6A59" stroke-width="0.3" opacity="0.25"/>
+    </g>
+
+    <!-- ===== HEAD + BEAK ===== -->
+    <g id="bird-head">
+      <path d="M17.5,-12.0 C17.5,-21.4 31.1,-22.2 34.5,-14.0 C35.5,-9.0 28.0,-3.5 18.5,-6.9 C16.5,-10.0 17.5,-12.0 17.5,-12.0 Z" fill="#4B342C" stroke="#4B342C" stroke-width="0.7" opacity="0.18"/>
+      <path d="M20.5,-14.6 Q26.0,-20.5 23.8,-16.8" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M22.1,-16.0 Q26.0,-20.5 26.2,-17.1" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M24.2,-16.9 Q26.0,-20.5 28.6,-16.7" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M26.7,-17.1 Q26.0,-20.5 30.6,-15.5" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M29.0,-16.5 Q26.0,-20.5 31.9,-13.9" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M30.9,-15.3 Q26.0,-20.5 32.4,-12.0" fill="none" stroke="#8A6A59" stroke-width="0.35" opacity="0.3"/>
+      <path d="M33.5,-13.0 Q43.5,-11.5 48.5,-9.5 Q40.5,-8.5 33.5,-9.5 Z" fill="#4B342C" stroke="#4B342C" stroke-width="0.5" opacity="0.55"/>
+      <path d="M35.5,-11.2 L46.5,-10.0" fill="none" stroke="#6F4A54" stroke-width="0.35" opacity="0.4"/>
+    </g>
+
+    <!-- ===== EYE (with occasional blink) ===== -->
+    <g id="bird-eye">
+      <circle cx="27.50" cy="-14.50" r="1.60" fill="#4B342C"  stroke-width="0.5" opacity="0.85"/>
+      <circle cx="28.00" cy="-15.00" r="0.45" fill="#F3E6D5"  stroke-width="0.5" opacity="0.8"/>
+      <circle cx="27.50" cy="-14.50" r="1.60" fill="none" stroke="#6F4A54" stroke-width="0.35" opacity="0.5"/>
+      <path d="M25.7,-14.5 Q27.5,-16.7 29.3,-14.5 Q27.5,-14.2 25.7,-14.5 Z" fill="#4B342C" opacity="0"><animate attributeName="opacity" dur="13s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.86;0.875;0.89;1" values="0;0;1;0;0"/></path>
+    </g>
   </g>
     
   <g>
@@ -91,172 +190,172 @@
   
   <rect x="10" y="10" width="820" height="260" fill="none" stroke="#332A20" stroke-width="1" opacity="0.45"/>
   <rect x="14" y="14" width="812" height="252" fill="none" stroke="#332A20" stroke-width="0.5" opacity="0.28"/>
-  <text x="30" y="30" font-family="'Courier New',monospace" font-size="11" letter-spacing="1.5" fill="#AD8A3E" opacity="0.65">&#167; A.07&#183;31</text>
+  <text x="30" y="30" font-family="'Courier New',monospace" font-size="11" letter-spacing="1.5" fill="#3B2416" opacity="0.75">&#167; A.07&#183;31</text>
   
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /HSRELTP
+      fill="#3B2416" opacity="0">
+      /UDAXIHH
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.0632;0.0751;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /CUSCTAP
+      fill="#3B2416" opacity="0">
+      /CEXDVXR
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.0751;0.087;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /CUIRHGW
+      fill="#3B2416" opacity="0">
+      /CUCSNBA
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.087;0.0988;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /CURPRRP
+      fill="#3B2416" opacity="0">
+      /CURCGHQ
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.0988;0.1107;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /CURIMUE
+      fill="#3B2416" opacity="0">
+      /CURITAR
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.1107;0.1225;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /CURIOHU
+      fill="#3B2416" opacity="0">
+      /CURIOGW
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.1225;0.1344;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /CURIOUE
+      fill="#3B2416" opacity="0">
+      /CURIOUU
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.1344;0.1462;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
+      fill="#3B2416" opacity="0">
       /CURIOUS
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.1462;0.3597;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /QMXAVYCF
+      fill="#3B2416" opacity="0">
+      /WRNHOSIZ
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.3597;0.3715;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /BYSBJYAI
+      fill="#3B2416" opacity="0">
+      /BAYZFWNK
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.3715;0.3834;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /BUPTXMWZ
+      fill="#3B2416" opacity="0">
+      /BUIEGYKD
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.3834;0.3953;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /BUINMXZS
+      fill="#3B2416" opacity="0">
+      /BUICMDLL
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.3953;0.4071;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /BUILOELD
+      fill="#3B2416" opacity="0">
+      /BUILTIZB
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.4071;0.419;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /BUILDBEP
+      fill="#3B2416" opacity="0">
+      /BUILDXOR
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.419;0.4308;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /BUILDIGI
+      fill="#3B2416" opacity="0">
+      /BUILDIDM
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.4308;0.4427;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
+      fill="#3B2416" opacity="0">
       /BUILDING
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.4427;0.6561;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /VNYUJNQM
+      fill="#3B2416" opacity="0">
+      /CRJUTLSG
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.6561;0.668;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /LSLRSNSH
+      fill="#3B2416" opacity="0">
+      /LWCBVHYJ
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.668;0.6798;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /LEKVAITV
+      fill="#3B2416" opacity="0">
+      /LECHDMIO
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.6798;0.6917;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /LEAWFWKR
+      fill="#3B2416" opacity="0">
+      /LEAULFLL
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.6917;0.7036;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /LEARSSDW
+      fill="#3B2416" opacity="0">
+      /LEARGVIW
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.7036;0.7154;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /LEARNUGU
+      fill="#3B2416" opacity="0">
+      /LEARNVUC
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.7154;0.7273;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
-      /LEARNISI
+      fill="#3B2416" opacity="0">
+      /LEARNITU
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.7273;0.7391;1" values="0;1;0;0" />
     </text>
     <text x="810" y="240" text-anchor="end"
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="2"
-      fill="#AD8A3E" opacity="0">
+      fill="#3B2416" opacity="0">
       /LEARNING
       <animate attributeName="opacity" dur="6.325000000000002s" repeatCount="indefinite" calcMode="discrete"
         keyTimes="0;0.7391;0.9526;1" values="0;1;0;0" />
