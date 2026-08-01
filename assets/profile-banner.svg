@@ -8,43 +8,43 @@
     <clipPath id="clipLine0">
       <rect x="40" y="40" height="22" width="0">
         <animate attributeName="width" dur="18.0s" repeatCount="indefinite"
-          keyTimes="0;0.0167;0.0722;1" values="0;0;185.2;185.2" />
+          keyTimes="0;0.0167;0.0722;1" values="0;0;150.16;150.16" />
       </rect>
     </clipPath>
     <clipPath id="clipLine1">
       <rect x="40" y="67" height="22" width="0">
         <animate attributeName="width" dur="18.0s" repeatCount="indefinite"
-          keyTimes="0;0.0944;0.15;1" values="0;0;288.6;288.6" />
+          keyTimes="0;0.0944;0.15;1" values="0;0;246.98999999999998;246.98999999999998" />
       </rect>
     </clipPath>
     <clipPath id="clipLine2">
       <rect x="40" y="94" height="22" width="0">
         <animate attributeName="width" dur="18.0s" repeatCount="indefinite"
-          keyTimes="0;0.1722;0.2278;1" values="0;0;335.6;335.6" />
+          keyTimes="0;0.1722;0.2278;1" values="0;0;264.01;264.01" />
       </rect>
     </clipPath>
     <clipPath id="clipLine3">
       <rect x="40" y="121" height="22" width="0">
         <animate attributeName="width" dur="18.0s" repeatCount="indefinite"
-          keyTimes="0;0.25;0.3056;1" values="0;0;316.8;316.8" />
+          keyTimes="0;0.25;0.3056;1" values="0;0;249.17499999999998;249.17499999999998" />
       </rect>
     </clipPath>
     <clipPath id="clipLine4">
       <rect x="40" y="148" height="22" width="0">
         <animate attributeName="width" dur="18.0s" repeatCount="indefinite"
-          keyTimes="0;0.3278;0.3833;1" values="0;0;382.6;382.6" />
+          keyTimes="0;0.3278;0.3833;1" values="0;0;325.53499999999997;325.53499999999997" />
       </rect>
     </clipPath>
     <clipPath id="clipLine5">
       <rect x="40" y="175" height="22" width="0">
         <animate attributeName="width" dur="18.0s" repeatCount="indefinite"
-          keyTimes="0;0.4056;0.4611;1" values="0;0;316.8;316.8" />
+          keyTimes="0;0.4056;0.4611;1" values="0;0;226.86499999999998;226.86499999999998" />
       </rect>
     </clipPath>
     <clipPath id="clipLine6">
       <rect x="40" y="202" height="22" width="0">
         <animate attributeName="width" dur="18.0s" repeatCount="indefinite"
-          keyTimes="0;0.4833;0.5389;1" values="0;0;373.2;373.2" />
+          keyTimes="0;0.4833;0.5389;1" values="0;0;302.30499999999995;302.30499999999995" />
       </rect>
     </clipPath>
     <clipPath id="pageClip"><rect x="0" y="0" width="840" height="280"/></clipPath>
@@ -386,31 +386,45 @@
       font-family="Georgia, 'Times New Roman', Times, serif" font-size="16"
       fill="#6B3D45">Open to your issues and pull requests!</text>
     
-    <rect x="223.2" y="43" width="7" height="16" fill="#BE6A45">
+    <rect x="44" y="43" width="7" height="16" fill="#BE6A45">
+      <animate attributeName="x" dur="18.0s" repeatCount="indefinite"
+        keyTimes="0;0.0167;0.0722;1" values="44;44;178.4;178.4" />
       <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite"
         keyTimes="0;0.0167;0.0289;0.0411;0.0533;0.0656;0.0778;0.09;0.0944;0.0945;1" values="0;0;1;0;1;0;1;0;1;0;0" />
     </rect>
-    <rect x="326.6" y="70" width="7" height="16" fill="#BE6A45">
+    <rect x="44" y="70" width="7" height="16" fill="#BE6A45">
+      <animate attributeName="x" dur="18.0s" repeatCount="indefinite"
+        keyTimes="0;0.0944;0.15;1" values="44;44;262.6;262.6" />
       <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite"
         keyTimes="0;0.0944;0.1067;0.1189;0.1311;0.1433;0.1556;0.1678;0.1722;0.1723;1" values="0;0;1;0;1;0;1;0;1;0;0" />
     </rect>
-    <rect x="373.6" y="97" width="7" height="16" fill="#BE6A45">
+    <rect x="44" y="97" width="7" height="16" fill="#BE6A45">
+      <animate attributeName="x" dur="18.0s" repeatCount="indefinite"
+        keyTimes="0;0.1722;0.2278;1" values="44;44;277.4;277.4" />
       <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite"
         keyTimes="0;0.1722;0.1844;0.1967;0.2089;0.2211;0.2333;0.2456;0.25;0.2501;1" values="0;0;1;0;1;0;1;0;1;0;0" />
     </rect>
-    <rect x="354.8" y="124" width="7" height="16" fill="#BE6A45">
+    <rect x="44" y="124" width="7" height="16" fill="#BE6A45">
+      <animate attributeName="x" dur="18.0s" repeatCount="indefinite"
+        keyTimes="0;0.25;0.3056;1" values="44;44;264.5;264.5" />
       <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite"
         keyTimes="0;0.25;0.2622;0.2744;0.2867;0.2989;0.3111;0.3233;0.3278;0.3279;1" values="0;0;1;0;1;0;1;0;1;0;0" />
     </rect>
-    <rect x="420.6" y="151" width="7" height="16" fill="#BE6A45">
+    <rect x="44" y="151" width="7" height="16" fill="#BE6A45">
+      <animate attributeName="x" dur="18.0s" repeatCount="indefinite"
+        keyTimes="0;0.3278;0.3833;1" values="44;44;330.9;330.9" />
       <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite"
         keyTimes="0;0.3278;0.34;0.3522;0.3644;0.3767;0.3889;0.4011;0.4056;0.4057;1" values="0;0;1;0;1;0;1;0;1;0;0" />
     </rect>
-    <rect x="354.8" y="178" width="7" height="16" fill="#BE6A45">
+    <rect x="44" y="178" width="7" height="16" fill="#BE6A45">
+      <animate attributeName="x" dur="18.0s" repeatCount="indefinite"
+        keyTimes="0;0.4056;0.4611;1" values="44;44;245.1;245.1" />
       <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite"
         keyTimes="0;0.4056;0.4178;0.43;0.4422;0.4544;0.4667;0.4789;0.4833;0.4834;1" values="0;0;1;0;1;0;1;0;1;0;0" />
     </rect>
-    <rect x="411.2" y="205" width="7" height="16" fill="#BE6A45">
+    <rect x="44" y="205" width="7" height="16" fill="#BE6A45">
+      <animate attributeName="x" dur="18.0s" repeatCount="indefinite"
+        keyTimes="0;0.4833;0.5389;1" values="44;44;310.7;310.7" />
       <animate attributeName="opacity" dur="18.0s" repeatCount="indefinite"
         keyTimes="0;0.4833;0.4956;0.5078;0.52;0.5322;0.5444;0.5567;0.5611;0.5612;1" values="0;0;1;0;1;0;1;0;1;0;0" />
     </rect>
